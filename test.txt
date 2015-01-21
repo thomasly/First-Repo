@@ -1,0 +1,5 @@
+Git is a version control library.
+
+Git is a open sourced tool.
+
+Git is created by Linus.
